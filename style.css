@@ -7,8 +7,10 @@ body{
 }
 
 header{
-    border: double 2px rgb(245, 237, 178);
-    padding: 20px;
+    border-bottom: double 2px rgb(245, 237, 178);
+    padding: 30px;
+    font-size: 32px;
+    color: antiquewhite;
 }
 
 h1{
