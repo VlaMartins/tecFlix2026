@@ -3,6 +3,11 @@ body{
     color: rgb(245, 237, 178);
     /* font-family: "Roboto Mono", monospace; */
     font-family: "Parisienne", cursive;
+    margin: 0px;
+}
+
+header{
+    border: solid 2px rgb(245, 237, 178);
 }
 
 h1{
@@ -12,3 +17,4 @@ h1{
 p{
     font-size: 20px;
 }
+
