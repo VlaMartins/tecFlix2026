@@ -34,6 +34,13 @@ p{
 }
 
 img{
-    height: 256px;
-    width: 144px;
+    height: 144px;
+    width: 256px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    max-width: 100%;
 }
